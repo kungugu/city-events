@@ -1,0 +1,3 @@
+/home/kungugu/city-events/city-events/backend/build/CMakeFiles/backend.dir
+/home/kungugu/city-events/city-events/backend/build/CMakeFiles/edit_cache.dir
+/home/kungugu/city-events/city-events/backend/build/CMakeFiles/rebuild_cache.dir
